@@ -13,9 +13,14 @@ namespace estrutura.Models
 
         public void Apresentar()
         {
+            //Posso fazer desta forma, 
             Console.WriteLine($"Olá, meu nome é {Nome}, e tenho {Idade} anos");
+
+            //ou também  pulando linha concatenando o comando:0
+            Console.WriteLine($"Apresentação 02: Olá, meu nome é" +
+            $" {Nome}, e tenho {Idade} anos");
         }    
 
-
      }
+
 }
