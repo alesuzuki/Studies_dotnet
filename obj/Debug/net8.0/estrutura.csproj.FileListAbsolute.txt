@@ -1,0 +1,14 @@
+C:\Users\Sra Suzuki\OneDrive\Estudos\dotnet DI-AI-OU\Projetos\estrutura\bin\Debug\net8.0\estrutura.exe
+C:\Users\Sra Suzuki\OneDrive\Estudos\dotnet DI-AI-OU\Projetos\estrutura\bin\Debug\net8.0\estrutura.deps.json
+C:\Users\Sra Suzuki\OneDrive\Estudos\dotnet DI-AI-OU\Projetos\estrutura\bin\Debug\net8.0\estrutura.runtimeconfig.json
+C:\Users\Sra Suzuki\OneDrive\Estudos\dotnet DI-AI-OU\Projetos\estrutura\bin\Debug\net8.0\estrutura.dll
+C:\Users\Sra Suzuki\OneDrive\Estudos\dotnet DI-AI-OU\Projetos\estrutura\bin\Debug\net8.0\estrutura.pdb
+C:\Users\Sra Suzuki\OneDrive\Estudos\dotnet DI-AI-OU\Projetos\estrutura\obj\Debug\net8.0\estrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sra Suzuki\OneDrive\Estudos\dotnet DI-AI-OU\Projetos\estrutura\obj\Debug\net8.0\estrutura.AssemblyInfoInputs.cache
+C:\Users\Sra Suzuki\OneDrive\Estudos\dotnet DI-AI-OU\Projetos\estrutura\obj\Debug\net8.0\estrutura.AssemblyInfo.cs
+C:\Users\Sra Suzuki\OneDrive\Estudos\dotnet DI-AI-OU\Projetos\estrutura\obj\Debug\net8.0\estrutura.csproj.CoreCompileInputs.cache
+C:\Users\Sra Suzuki\OneDrive\Estudos\dotnet DI-AI-OU\Projetos\estrutura\obj\Debug\net8.0\estrutura.dll
+C:\Users\Sra Suzuki\OneDrive\Estudos\dotnet DI-AI-OU\Projetos\estrutura\obj\Debug\net8.0\refint\estrutura.dll
+C:\Users\Sra Suzuki\OneDrive\Estudos\dotnet DI-AI-OU\Projetos\estrutura\obj\Debug\net8.0\estrutura.pdb
+C:\Users\Sra Suzuki\OneDrive\Estudos\dotnet DI-AI-OU\Projetos\estrutura\obj\Debug\net8.0\estrutura.genruntimeconfig.cache
+C:\Users\Sra Suzuki\OneDrive\Estudos\dotnet DI-AI-OU\Projetos\estrutura\obj\Debug\net8.0\ref\estrutura.dll
