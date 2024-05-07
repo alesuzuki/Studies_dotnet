@@ -25,7 +25,7 @@ namespace estrutura.Models
 
             //também posso quebrar uma linha no resultado do comando que está executando
             //usando o \n como quebra de linha
-            Console.WriteLine($"Olá, meu nome é {Nome}, \n e tenho {Idade} anos");
+            //Console.WriteLine($"Olá, meu nome é {Nome}, \n e tenho {Idade} anos");
 
         }    
 
