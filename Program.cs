@@ -1,6 +1,5 @@
 ﻿//Console.WriteLine("Hello, World!");
 
-
 // Posso fazer desta forma
 using estrutura.Models;
 
