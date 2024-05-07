@@ -14,11 +14,19 @@ namespace estrutura.Models
         public void Apresentar()
         {
             //Posso fazer desta forma, 
-            Console.WriteLine($"Olá, meu nome é {Nome}, e tenho {Idade} anos");
+            //Console.WriteLine($"Olá, meu nome é {Nome}, e tenho {Idade} anos");
 
-            //ou também  pulando linha concatenando o comando:0
+            //ou também  pulando linha concatenando o comando:
+            //desta forma o código fica mais organizado
+            /*
             Console.WriteLine($"Apresentação 02: Olá, meu nome é" +
             $" {Nome}, e tenho {Idade} anos");
+            */
+
+            //também posso quebrar uma linha no resultado do comando que está executando
+            //usando o \n como quebra de linha
+            Console.WriteLine($"Olá, meu nome é {Nome}, \n e tenho {Idade} anos");
+
         }    
 
      }
