@@ -1,0 +1,15 @@
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\02_tipos_de_dados\bin\Debug\net8.0\02_tipos_de_dados.exe
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\02_tipos_de_dados\bin\Debug\net8.0\02_tipos_de_dados.deps.json
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\02_tipos_de_dados\bin\Debug\net8.0\02_tipos_de_dados.runtimeconfig.json
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\02_tipos_de_dados\bin\Debug\net8.0\02_tipos_de_dados.dll
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\02_tipos_de_dados\bin\Debug\net8.0\02_tipos_de_dados.pdb
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\02_tipos_de_dados\obj\Debug\net8.0\02_tipos_de_dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\02_tipos_de_dados\obj\Debug\net8.0\02_tipos_de_dados.AssemblyInfoInputs.cache
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\02_tipos_de_dados\obj\Debug\net8.0\02_tipos_de_dados.AssemblyInfo.cs
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\02_tipos_de_dados\obj\Debug\net8.0\02_tipos_de_dados.csproj.CoreCompileInputs.cache
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\02_tipos_de_dados\obj\Debug\net8.0\02_tipos_de_dados.sourcelink.json
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\02_tipos_de_dados\obj\Debug\net8.0\02_tipos_de_dados.dll
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\02_tipos_de_dados\obj\Debug\net8.0\refint\02_tipos_de_dados.dll
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\02_tipos_de_dados\obj\Debug\net8.0\02_tipos_de_dados.pdb
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\02_tipos_de_dados\obj\Debug\net8.0\02_tipos_de_dados.genruntimeconfig.cache
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\02_tipos_de_dados\obj\Debug\net8.0\ref\02_tipos_de_dados.dll
