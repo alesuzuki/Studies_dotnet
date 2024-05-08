@@ -1,0 +1,15 @@
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\03_estudos_de_operadores\bin\Debug\net8.0\03_estudos_de_operadores.exe
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\03_estudos_de_operadores\bin\Debug\net8.0\03_estudos_de_operadores.deps.json
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\03_estudos_de_operadores\bin\Debug\net8.0\03_estudos_de_operadores.runtimeconfig.json
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\03_estudos_de_operadores\bin\Debug\net8.0\03_estudos_de_operadores.dll
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\03_estudos_de_operadores\bin\Debug\net8.0\03_estudos_de_operadores.pdb
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\03_estudos_de_operadores\obj\Debug\net8.0\03_estudos_de_operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\03_estudos_de_operadores\obj\Debug\net8.0\03_estudos_de_operadores.AssemblyInfoInputs.cache
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\03_estudos_de_operadores\obj\Debug\net8.0\03_estudos_de_operadores.AssemblyInfo.cs
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\03_estudos_de_operadores\obj\Debug\net8.0\03_estudos_de_operadores.csproj.CoreCompileInputs.cache
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\03_estudos_de_operadores\obj\Debug\net8.0\03_estudos_de_operadores.sourcelink.json
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\03_estudos_de_operadores\obj\Debug\net8.0\03_estudos_de_operadores.dll
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\03_estudos_de_operadores\obj\Debug\net8.0\refint\03_estudos_de_operadores.dll
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\03_estudos_de_operadores\obj\Debug\net8.0\03_estudos_de_operadores.pdb
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\03_estudos_de_operadores\obj\Debug\net8.0\03_estudos_de_operadores.genruntimeconfig.cache
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\03_estudos_de_operadores\obj\Debug\net8.0\ref\03_estudos_de_operadores.dll
