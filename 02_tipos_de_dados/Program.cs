@@ -43,3 +43,20 @@ Console.WriteLine("Valor da variável quantidade: " + quantidade);
 quantidade = 10;
 Console.WriteLine("Valor da variável quantidade: " + quantidade);
 */
+
+
+/*
+//  Tipos de dados
+//.O Tipo DateTime
+
+DateTime dataAtual = DateTime.Now;
+Console.WriteLine("A Data atual é: " + dataAtual);
+
+DateTime data02 = DateTime.Now.AddDays(5);
+Console.WriteLine("A Data de hoje mais 5 dias é: " + data02);
+
+Console.WriteLine("A Data formatada em dd/MM/yyyy: " + data02.ToString("dd/MM/yyyy"));
+
+Console.WriteLine("A Data formatada em dd/MM/yyyy HH:mm: " + data02.ToString("dd/MM/yyyy HH:mm"));
+
+*/
