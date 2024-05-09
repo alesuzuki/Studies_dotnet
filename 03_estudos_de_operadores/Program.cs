@@ -3,27 +3,11 @@
 // Operador de Condicionais
 // Operador de Lógicos
 
-// Convertendo tipos de variáveis
-//cast ou casting
+// Conversão para string
+int inteiro = 5;
+string a = inteiro.ToString();
 
-//convert é a classe, toint32 é um metodo, que recebe a variavel
-
-int a = Convert.ToInt32("5");
 Console.WriteLine(a);
-
-
-int b = int.Parse("10");
-Console.WriteLine(b);
-
-//o que acontece se eu passar algo que nao é convertivel para numero? 
-//R: Da erro // exceçao
-
-// int c = int.Parse("10c");
-// Console.WriteLine(c);
-
-// Unhandled exception. System.FormatException: The input string '10c' was not in a correct format.
-//    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
-//    at System.Int32.Parse(String s)
 
 
 
@@ -70,5 +54,35 @@ c = c + 5;
 c += 5;
 
 Console.WriteLine(c);
+
+*/
+
+/*
+// Estudando os tipos de operadores
+// Operador de Atribuição
+// Operador de Condicionais
+// Operador de Lógicos
+
+// Convertendo tipos de variáveis
+//cast ou casting
+
+//convert é a classe, toint32 é um metodo, que recebe a variavel
+
+int a = Convert.ToInt32("5");
+Console.WriteLine(a);
+
+
+int b = int.Parse("10");
+Console.WriteLine(b);
+
+//o que acontece se eu passar algo que nao é convertivel para numero? 
+//R: Da erro // exceçao
+
+// int c = int.Parse("10c");
+// Console.WriteLine(c);
+
+// Unhandled exception. System.FormatException: The input string '10c' was not in a correct format.
+//    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+//    at System.Int32.Parse(String s)
 
 */
