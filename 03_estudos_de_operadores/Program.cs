@@ -3,13 +3,20 @@
 // Operador de Condicionais
 // Operador de Lógicos
 
-// Conversão para string
-int inteiro = 5;
-string a = inteiro.ToString();
+// Cast implicito
+// conversao de diferentes tipos que nao precisa usar a conversao em si
+// pois a ide faz automaticamente
 
-Console.WriteLine(a);
+int a = 5;
+double b = a;
+Console.WriteLine(b);
 
+long c = a;
+Console.WriteLine(c);
 
+int d = int.MaxValue;
+long e = d;
+Console.WriteLine(e);
 
 
 /*
@@ -25,7 +32,6 @@ int c = a + b;
 
 
 Console.WriteLine(c);
-
 */
 
 
@@ -86,3 +92,14 @@ Console.WriteLine(b);
 //    at System.Int32.Parse(String s)
 
 */
+
+
+
+/*
+// Conversão para string
+int inteiro = 5;
+string a = inteiro.ToString();
+
+Console.WriteLine(a);
+*/
+
