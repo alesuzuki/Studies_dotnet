@@ -3,20 +3,17 @@
 // Operador de Condicionais
 // Operador de Lógicos
 
-// Cast implicito
-// conversao de diferentes tipos que nao precisa usar a conversao em si
-// pois a ide faz automaticamente
+// Ordem dos operadores
+// obedece a ordem das operacoes matematicas
+// 1 - parenteses 2 - expoentes 3 - divisao e multiplicacao 4 adicao e subtracao
+double a = 10 / 2 + 2;
+Console.WriteLine(a);
 
-int a = 5;
-double b = a;
-Console.WriteLine(b);
 
-long c = a;
-Console.WriteLine(c);
 
-int d = int.MaxValue;
-long e = d;
-Console.WriteLine(e);
+
+
+
 
 
 /*
@@ -103,3 +100,19 @@ string a = inteiro.ToString();
 Console.WriteLine(a);
 */
 
+/*
+// Cast implicito
+// conversao de diferentes tipos que nao precisa usar a conversao em si
+// pois a ide faz automaticamente
+
+int a = 5;
+double b = a;
+Console.WriteLine(b);
+
+long c = a;
+Console.WriteLine(c);
+
+int d = int.MaxValue;
+long e = d;
+Console.WriteLine(e);
+*/
