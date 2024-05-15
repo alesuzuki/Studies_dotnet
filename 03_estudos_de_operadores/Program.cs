@@ -1,13 +1,8 @@
 ﻿// Estudando os tipos de operadores
 // Operador de Atribuição
-// Operador de Condicionais
-// Operador de Lógicos
+// Operador de Condicionais -- a partir daqui tem que fazer os exercicios e subir no github
+// a partir de "operadores condicionais" do modulo 2 
 
-// Ordem dos operadores
-// obedece a ordem das operacoes matematicas
-// 1 - parenteses 2 - expoentes 3 - divisao e multiplicacao 4 adicao e subtracao
-double a = 10 / 2 + 2;
-Console.WriteLine(a);
 
 
 
@@ -93,6 +88,7 @@ Console.WriteLine(b);
 
 
 /*
+// Operador de Atribuição
 // Conversão para string
 int inteiro = 5;
 string a = inteiro.ToString();
@@ -101,6 +97,7 @@ Console.WriteLine(a);
 */
 
 /*
+// Operador de Atribuição
 // Cast implicito
 // conversao de diferentes tipos que nao precisa usar a conversao em si
 // pois a ide faz automaticamente
@@ -115,4 +112,15 @@ Console.WriteLine(c);
 int d = int.MaxValue;
 long e = d;
 Console.WriteLine(e);
+*/
+
+
+/*
+// Ordem dos operadores
+// obedece a ordem das operacoes matematicas
+// 1 - parenteses 2 - expoentes 3 - divisao e multiplicacao 4 adicao e subtracao
+double a = 10 / 2 + 2;
+Console.WriteLine(a);
+
+
 */
