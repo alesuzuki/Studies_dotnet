@@ -8,6 +8,10 @@ namespace _10_propriedadesMetodosConstrutores.Models
     public class Pessoa
     {
 
+        public Pessoa(string nome, string sobrenome)
+        {
+        }
+
         private string _nome;
         private int _idade;
 
