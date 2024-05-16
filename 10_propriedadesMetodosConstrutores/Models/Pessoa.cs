@@ -9,6 +9,8 @@ namespace _10_propriedadesMetodosConstrutores.Models
     {
 
         private string _nome;
+        private int _idade;
+
 
 
         public string Nome 
@@ -25,7 +27,7 @@ namespace _10_propriedadesMetodosConstrutores.Models
             {
                 if (value == "")
                 {
-                    throw new ArgumentException("O nome não pode ser vazio!");
+                    throw new ArgumentException("O nome não pode ser vazio.");
                 }
                 _nome = value;
 
@@ -36,12 +38,26 @@ namespace _10_propriedadesMetodosConstrutores.Models
 
         }
 
+        public string Sobrenome { get; set; }
 
-        public int Idade { get; set; }
+        public string NomeCompleto { get; set; }
+
+        public int Idade 
+        { 
+            get => _idade;
+            set
+            {
+                if (value <0)
+                {
+                    throw new ArgumentException("A idade não pode ser menor que zero."); 
+                }
+                _idade = value;
+            } 
+        }
         
         public void Apresentar()
         {
-            Console.WriteLine($"Nome: {Nome}, Idade: {Idade}");
+            Console.WriteLine($"Nome: {Nome} {Sobrenome}, Idade: {Idade}");
         }
     }
 }
