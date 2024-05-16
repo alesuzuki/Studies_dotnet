@@ -1,0 +1,15 @@
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\10_propriedadesMetodosConstrutores\obj\Debug\net8.0\10_propriedadesMetodosConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\10_propriedadesMetodosConstrutores\obj\Debug\net8.0\10_propriedadesMetodosConstrutores.AssemblyInfoInputs.cache
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\10_propriedadesMetodosConstrutores\obj\Debug\net8.0\10_propriedadesMetodosConstrutores.AssemblyInfo.cs
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\10_propriedadesMetodosConstrutores\obj\Debug\net8.0\10_propriedadesMetodosConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\10_propriedadesMetodosConstrutores\obj\Debug\net8.0\10_propriedadesMetodosConstrutores.sourcelink.json
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\10_propriedadesMetodosConstrutores\bin\Debug\net8.0\10_propriedadesMetodosConstrutores.exe
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\10_propriedadesMetodosConstrutores\bin\Debug\net8.0\10_propriedadesMetodosConstrutores.deps.json
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\10_propriedadesMetodosConstrutores\bin\Debug\net8.0\10_propriedadesMetodosConstrutores.runtimeconfig.json
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\10_propriedadesMetodosConstrutores\bin\Debug\net8.0\10_propriedadesMetodosConstrutores.dll
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\10_propriedadesMetodosConstrutores\bin\Debug\net8.0\10_propriedadesMetodosConstrutores.pdb
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\10_propriedadesMetodosConstrutores\obj\Debug\net8.0\10_propriedadesMetodosConstrutores.dll
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\10_propriedadesMetodosConstrutores\obj\Debug\net8.0\refint\10_propriedadesMetodosConstrutores.dll
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\10_propriedadesMetodosConstrutores\obj\Debug\net8.0\10_propriedadesMetodosConstrutores.pdb
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\10_propriedadesMetodosConstrutores\obj\Debug\net8.0\10_propriedadesMetodosConstrutores.genruntimeconfig.cache
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\10_propriedadesMetodosConstrutores\obj\Debug\net8.0\ref\10_propriedadesMetodosConstrutores.dll
