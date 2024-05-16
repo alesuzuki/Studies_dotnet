@@ -40,7 +40,7 @@ namespace _10_propriedadesMetodosConstrutores.Models
 
         public string Sobrenome { get; set; }
 
-        public string NomeCompleto { get; set; }
+        public string NomeCompleto => $"{Nome} {Sobrenome}".ToUpper();
 
         public int Idade 
         { 
@@ -57,7 +57,7 @@ namespace _10_propriedadesMetodosConstrutores.Models
         
         public void Apresentar()
         {
-            Console.WriteLine($"Nome: {Nome} {Sobrenome}, Idade: {Idade}");
+            Console.WriteLine($"Nome: {NomeCompleto}, Idade: {Idade}");
         }
     }
 }
