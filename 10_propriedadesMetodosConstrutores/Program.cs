@@ -1,4 +1,9 @@
-﻿using _10_propriedadesMetodosConstrutores.Models;
+﻿using System.Globalization;
+using _10_propriedadesMetodosConstrutores.Models;
+
+
+//Utilizando o regional settings para o sistema
+CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("en-US");
 
 //valores monetários
 decimal valorMonetario = 1582.40M;
