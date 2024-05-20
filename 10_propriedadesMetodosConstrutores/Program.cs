@@ -1,5 +1,11 @@
 ﻿using _10_propriedadesMetodosConstrutores.Models;
 
+//valores monetários
+decimal valorMonetario = 1582.40M;
+Console.WriteLine($"{valorMonetario:C}");
+
+
+/*
 Pessoa p1 = new Pessoa("Ale","Suzuki");
 Pessoa p2 = new Pessoa("Mimers","Diasis");
 
@@ -10,6 +16,7 @@ cursoDeIngles.Alunos = new List<Pessoa>();
 cursoDeIngles.AdicionarAluno(p1);
 cursoDeIngles.AdicionarAluno(p2);
 cursoDeIngles.ListarAlunos();
+*/
 
 /*
 Pessoa p1 = new Pessoa();
