@@ -3,11 +3,25 @@ using _10_propriedadesMetodosConstrutores.Models;
 
 
 //Utilizando o regional settings para o sistema
-CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("en-US");
+CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("pt-BR");
+
+//alterando a moeda apenas na formatacao da exibição do valor
+decimal valorMonetario = 1582.40M;
+
+Console.WriteLine(valorMonetario.ToString("C8"));
+
+
+
+
+
+/*
+//Utilizando o regional settings para o sistema
+CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("pt-BR");
 
 //alterando a moeda apenas na formatacao da exibição do valor
 decimal valorMonetario = 1582.40M;
 Console.WriteLine(valorMonetario.ToString("C", CultureInfo.CreateSpecificCulture("en-US")));
+*/
 
 
 /*
