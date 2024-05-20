@@ -1,7 +1,15 @@
 ﻿using System.Globalization;
 using _10_propriedadesMetodosConstrutores.Models;
 
+DateTime data = DateTime.Now;
 
+Console.WriteLine(data);
+Console.WriteLine(data.ToString("dd/MM/yyyy HH:mm"));
+Console.WriteLine(data.ToShortDateString());
+Console.WriteLine(data.ToShortTimeString());
+
+
+/*
 //Utilizando o regional settings para o sistema
 CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("pt-BR");
 
@@ -17,6 +25,8 @@ Console.WriteLine(porcentagem.ToString("P"));
 
 int sbrubles = 666999;
 Console.WriteLine(sbrubles.ToString("###-###"));
+*/
+
 
 /*
 //Utilizando o regional settings para o sistema
