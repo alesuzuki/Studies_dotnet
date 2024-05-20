@@ -30,9 +30,20 @@ namespace _10_propriedadesMetodosConstrutores.Models
 
         public void ListarAlunos()
         {
-            foreach (Pessoa aluno in Alunos)
+
+            //Concatenação
+            // foreach (Pessoa aluno in Alunos)
+            // {
+            //     Console.WriteLine(aluno.NomeCompleto);
+            // }
+
+            //Interpolação
+            for(int i = 0; i < Alunos.Count ; i++ )
             {
-                Console.WriteLine(aluno.NomeCompleto);
+                //string texto = "N° " + i + " - " + Alunos[i].NomeCompleto;
+                string texto = $"N° {i} - {Alunos[i].NomeCompleto}";
+
+                Console.WriteLine(texto); 
             }
         }
     }
