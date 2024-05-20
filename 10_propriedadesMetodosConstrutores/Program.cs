@@ -5,10 +5,20 @@ using _10_propriedadesMetodosConstrutores.Models;
 //Utilizando o regional settings para o sistema
 CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("en-US");
 
+//alterando a moeda apenas na formatacao da exibição do valor
+decimal valorMonetario = 1582.40M;
+Console.WriteLine(valorMonetario.ToString("C", CultureInfo.CreateSpecificCulture("en-US")));
+
+
+/*
+//Utilizando o regional settings para o sistema
+CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("en-US");
+
 //valores monetários
 decimal valorMonetario = 1582.40M;
 Console.WriteLine($"{valorMonetario:C}");
 
+*/
 
 /*
 Pessoa p1 = new Pessoa("Ale","Suzuki");
