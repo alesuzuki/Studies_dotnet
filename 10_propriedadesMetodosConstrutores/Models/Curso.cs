@@ -41,7 +41,7 @@ namespace _10_propriedadesMetodosConstrutores.Models
             for(int i = 0; i < Alunos.Count ; i++ )
             {
                 //string texto = "N° " + i + " - " + Alunos[i].NomeCompleto;
-                string texto = $"N° {i} - {Alunos[i].NomeCompleto}";
+                string texto = $"N° {i+1} - {Alunos[i].NomeCompleto}";
 
                 Console.WriteLine(texto); 
             }
