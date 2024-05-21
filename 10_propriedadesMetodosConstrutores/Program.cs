@@ -2,6 +2,11 @@
 using _10_propriedadesMetodosConstrutores.Models;
 
 
+new ExemploExcecao().Metodo1();
+
+
+/*
+
 try
 {
     string[] linhas = File.ReadAllLines("Arquivos/arquivoLeitura.txt");
@@ -31,16 +36,7 @@ finally
 {
     Console.WriteLine("That's all folks!");
 }
-
-
-
-
-
-
-
-
-
-
+*/
 
 
 
