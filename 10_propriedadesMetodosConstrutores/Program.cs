@@ -7,6 +7,10 @@ LeituraArquivo arquivo = new LeituraArquivo();
 
 var (sucesso, linhasArquivos, quantidadeLinhas) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
 
+//posso descartar a informacao retornada pelo metodo caso nao va consumila
+//var (sucesso, linhasArquivos, _) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
+
+
 if (sucesso)
 {
     Console.WriteLine("Quantidade de linhas do arquivo: " + quantidadeLinhas);
