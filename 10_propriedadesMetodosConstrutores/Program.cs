@@ -1,12 +1,31 @@
 ﻿using System.Globalization;
 using _10_propriedadesMetodosConstrutores.Models;
 
+Queue<int> fila = new Queue<int>();
 
+fila.Enqueue(2);
+fila.Enqueue(4);
+fila.Enqueue(6);
+fila.Enqueue(8);
+
+foreach (int i in fila) 
+{
+    Console.WriteLine(i);
+}
+
+Console.WriteLine($"Removendo o elemento: {fila.Dequeue()}");
+fila.Enqueue(10);
+
+foreach (int i in fila) 
+{
+    Console.WriteLine(i);
+}
+/*
 new ExemploExcecao().Metodo1();
+*/
 
 
 /*
-
 try
 {
     string[] linhas = File.ReadAllLines("Arquivos/arquivoLeitura.txt");
