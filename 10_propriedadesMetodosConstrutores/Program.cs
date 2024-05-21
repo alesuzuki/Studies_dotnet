@@ -1,6 +1,48 @@
 ﻿using System.Globalization;
 using _10_propriedadesMetodosConstrutores.Models;
 
+
+//metodo usando tupla para retorno
+LeituraArquivo arquivo = new LeituraArquivo();
+
+var (sucesso, linhasArquivos, quantidadeLinhas) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
+
+if (sucesso)
+{
+    Console.WriteLine("Quantidade de linhas do arquivo: " + quantidadeLinhas);
+
+    foreach(string linha in linhasArquivos)
+    {
+        Console.WriteLine("linha");
+    }
+}
+else
+{
+    Console.WriteLine("Nao foi possivel ler o arquivo");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
 (int, string, string, decimal) tupla = (1, "Waltenne", "Carvalho", 1.87M);
 
 Console.WriteLine($"Id: {tupla.Item1}");
@@ -27,29 +69,7 @@ Console.WriteLine($"Id: {tupla3.Item1}");
 Console.WriteLine($"Nome: {tupla3.Item2}");
 Console.WriteLine($"Sobrenome: {tupla3.Item3}");
 Console.WriteLine($"Altura: {tupla3.Item4}");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*/
 
 
 /*
