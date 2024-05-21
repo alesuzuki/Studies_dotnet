@@ -1,6 +1,59 @@
 ﻿using System.Globalization;
 using _10_propriedadesMetodosConstrutores.Models;
 
+(int, string, string, decimal) tupla = (1, "Waltenne", "Carvalho", 1.87M);
+
+Console.WriteLine($"Id: {tupla.Item1}");
+Console.WriteLine($"Nome: {tupla.Item2}");
+Console.WriteLine($"Sobrenome: {tupla.Item3}");
+Console.WriteLine($"Altura: {tupla.Item4}");
+
+Console.WriteLine("============================");
+
+
+ValueTuple<int, string, string, decimal> tupla2 = (1, "hfs", "killmster", 1.50M);
+
+Console.WriteLine($"Id: {tupla2.Item1}");
+Console.WriteLine($"Nome: {tupla2.Item2}");
+Console.WriteLine($"Sobrenome: {tupla2.Item3}");
+Console.WriteLine($"Altura: {tupla2.Item4}");
+
+
+Console.WriteLine("============================");
+
+var tupla3 = Tuple.Create(1, "Heiz", "men", 1.75M);
+
+Console.WriteLine($"Id: {tupla3.Item1}");
+Console.WriteLine($"Nome: {tupla3.Item2}");
+Console.WriteLine($"Sobrenome: {tupla3.Item3}");
+Console.WriteLine($"Altura: {tupla3.Item4}");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
 Dictionary<string, string> estados = new Dictionary<string, string>();  
 
 estados.Add("SP", "São Paulo");
@@ -38,9 +91,7 @@ else
 
 }
 
-
-
-
+*/
 
 
 /*
