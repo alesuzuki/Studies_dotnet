@@ -2,7 +2,6 @@
 using _10_propriedadesMetodosConstrutores.Models;
 
 
-
 try
 {
     string[] linhas = File.ReadAllLines("Arquivos/arquivoLeitura.txt");
@@ -12,6 +11,7 @@ try
         Console.WriteLine(linha);
     }
 }
+
 catch (FileNotFoundException ex)    
 {
     Console.WriteLine($"Não achamos o arquivo, confere ai bro: {ex.Message}");
@@ -22,10 +22,14 @@ catch (DirectoryNotFoundException ex)
     Console.WriteLine($"Esse caminho ta confuso, dá uma bizoiada: {ex.Message}");
 }
 
-
 catch (Exception ex)    
 {
     Console.WriteLine($"Ocorreu uma excecao Generica {ex.Message}");
+}
+
+finally
+{
+    Console.WriteLine("That's all folks!");
 }
 
 
