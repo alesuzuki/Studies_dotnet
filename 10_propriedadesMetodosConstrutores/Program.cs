@@ -1,7 +1,34 @@
 ﻿using System.Globalization;
 using _10_propriedadesMetodosConstrutores.Models;
 
+Pessoa p1 = new Pessoa("ale","Suzuki");
 
+(string nome, string sobrenome) = p1;
+
+Console.WriteLine($"{nome} {sobrenome}");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
 //metodo usando tupla para retorno
 LeituraArquivo arquivo = new LeituraArquivo();
 
@@ -26,24 +53,7 @@ else
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*/
 
 
 /*
