@@ -1,6 +1,46 @@
 ﻿using System.Globalization;
 using _10_propriedadesMetodosConstrutores.Models;
 
+Dictionary<string, string> estados = new Dictionary<string, string>();  
+
+estados.Add("SP", "São Paulo");
+estados.Add("BA", "Bahia");
+estados.Add("MG", "Minas Gerais");
+
+foreach (var item in estados) 
+{
+    Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+}
+
+estados.Remove("SP");
+estados.Add("GO", "Goiânia");
+
+estados ["MG"] = "Minas - terra do pdq (pão de queijo)";
+
+
+Console.WriteLine("++++++++++++++++++++++++++++");
+
+foreach (var item in estados) 
+{
+    Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+}
+
+string chave = "RJ";
+
+if (estados.ContainsKey(chave))
+{
+    Console.WriteLine("Ja tem!");
+}
+else   
+{
+    Console.WriteLine("não tem na lista, vamos adicionar!");
+    estados.Add("RJ", "Hell de Janeiro");
+
+}
+
+
+
+
 
 
 /*
