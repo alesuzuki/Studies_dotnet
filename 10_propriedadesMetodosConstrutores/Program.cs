@@ -1,6 +1,9 @@
 ﻿using System.Globalization;
 using _10_propriedadesMetodosConstrutores.Models;
 
+
+
+/*
 Stack<int> pilha = new Stack<int>();
 
 pilha.Push(2);
@@ -21,6 +24,7 @@ foreach (int i in pilha)
     Console.WriteLine(i);
 }
 
+*/
 
 
 
