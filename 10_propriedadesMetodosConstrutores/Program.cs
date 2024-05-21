@@ -1,6 +1,31 @@
 ﻿using System.Globalization;
 using _10_propriedadesMetodosConstrutores.Models;
 
+Stack<int> pilha = new Stack<int>();
+
+pilha.Push(2);
+pilha.Push(4);
+pilha.Push(6);
+pilha.Push(8);
+
+foreach (int i in pilha) 
+{
+    Console.WriteLine(i);
+}
+
+Console.WriteLine($"Removendo o elemento: {pilha.Pop()}");
+pilha.Push(666);
+
+foreach (int i in pilha) 
+{
+    Console.WriteLine(i);
+}
+
+
+
+
+/*
+
 Queue<int> fila = new Queue<int>();
 
 fila.Enqueue(2);
@@ -20,6 +45,9 @@ foreach (int i in fila)
 {
     Console.WriteLine(i);
 }
+*/
+
+
 /*
 new ExemploExcecao().Metodo1();
 */
