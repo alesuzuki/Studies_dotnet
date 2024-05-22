@@ -2,7 +2,52 @@
 using _10_propriedadesMetodosConstrutores.Models;
 using Newtonsoft.Json;
 
+string conteudoArquivo = File.ReadAllText("Arquivos/venda.json");
 
+List<VendaDes> listaVendaDes = JsonConvert.DeserializeObject<List<VendaDes>>(conteudoArquivo);
+
+foreach (VendaDes vendaDes in listaVendaDes)
+{
+    Console.WriteLine($"Id: {vendaDes.Id}");
+    Console.WriteLine($"Produto: {vendaDes.Produto}");
+    Console.WriteLine($"Preço: {vendaDes.Preco}");
+    Console.WriteLine($"Data: {vendaDes.DataVenda.ToString("dd/MM/yyyy")}");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+//serialização
 DateTime dataAtual = DateTime.Now;
 
 List<Venda> listaVendas = new List<Venda>();
@@ -20,30 +65,7 @@ File.WriteAllText ("Arquivos/venda.json", serializado);
 //Console.WriteLine (serializado);
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*/
 
 
 /*
