@@ -11,15 +11,15 @@ namespace _10_propriedadesMetodosConstrutores.Models
         public (bool Sucesso, string[] Linhas, int QtdLinhas) LerArquivo(string caminho)
         {
 
-            try
-            {
+            // try
+            // {
                 string[] linhas = File.ReadAllLines(caminho);
                 return(true, linhas, linhas.Count());
-            }
-            catch (Exception ex)    
-            {
-                return(false, new string[0], 0);
-            }
+            // }
+            // catch (Exception ex)    
+            // {
+            //     return(false, new string[0], 0);
+            // }
 
         }
     }

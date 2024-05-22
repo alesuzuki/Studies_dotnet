@@ -13,3 +13,6 @@ C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\10_propriedadesMetodosConstr
 C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\10_propriedadesMetodosConstrutores\obj\Debug\net8.0\10_propriedadesMetodosConstrutores.pdb
 C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\10_propriedadesMetodosConstrutores\obj\Debug\net8.0\10_propriedadesMetodosConstrutores.genruntimeconfig.cache
 C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\10_propriedadesMetodosConstrutores\obj\Debug\net8.0\ref\10_propriedadesMetodosConstrutores.dll
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\10_propriedadesMetodosConstrutores\obj\Debug\net8.0\10_propriedadesMetodosConstrutores.csproj.AssemblyReference.cache
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\10_propriedadesMetodosConstrutores\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Sra Suzuki\Documents\GitHub\Studies_dotnet\10_propriedadesMetodosConstrutores\obj\Debug\net8.0\10_propr.A65C5E61.Up2Date
