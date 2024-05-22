@@ -1,31 +1,56 @@
 ﻿using System.Globalization;
 using _10_propriedadesMetodosConstrutores.Models;
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+int numero = 15;
+bool ehpar = false;
+
+//if ternario
+ehpar = numero % 2 == 0;
+
+
+Console.WriteLine($"O numero {numero} eh " + (ehpar ? "par" : "impar"));
+
+*/
+
+
+/*
 Pessoa p1 = new Pessoa("ale","Suzuki");
 
 (string nome, string sobrenome) = p1;
 
 Console.WriteLine($"{nome} {sobrenome}");
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*/
 
 
 /*
