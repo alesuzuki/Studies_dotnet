@@ -2,11 +2,13 @@
   {
     "Id": 1,
     "Produto": "Material de escritório",
-    "Preco": 25.00
+    "Preco": 25.00,
+    "DataVenda": "2024-05-22T12:31:10.2353133-03:00"
   },
   {
     "Id": 2,
     "Produto": "Sbrubles",
-    "Preco": 666.00
+    "Preco": 666.00,
+    "DataVenda": "2024-05-22T12:31:10.2353133-03:00"
   }
 ]

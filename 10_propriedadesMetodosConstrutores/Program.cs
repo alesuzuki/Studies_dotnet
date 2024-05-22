@@ -2,10 +2,13 @@
 using _10_propriedadesMetodosConstrutores.Models;
 using Newtonsoft.Json;
 
+
+DateTime dataAtual = DateTime.Now;
+
 List<Venda> listaVendas = new List<Venda>();
 
-Venda v1 = new Venda (1, "Material de escritório", 25.00M);
-Venda v2 = new Venda (2, "Sbrubles", 666.00M);
+Venda v1 = new Venda (1, "Material de escritório", 25.00M, dataAtual);
+Venda v2 = new Venda (2, "Sbrubles", 666.00M, dataAtual);
 
 listaVendas.Add (v1);
 listaVendas.Add (v2); 
@@ -14,7 +17,7 @@ string serializado = JsonConvert.SerializeObject(listaVendas, Formatting.Indente
 
 File.WriteAllText ("Arquivos/venda.json", serializado);
 
-Console.WriteLine (serializado);
+//Console.WriteLine (serializado);
 
 
 
